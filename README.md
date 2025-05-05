@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # veteran-support-platform
 =======
+=======
+>>>>>>> 3a325ec08e5a26fab72b26ca4f63a9eb4b8343e8
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,4 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<<<<<<< HEAD
 >>>>>>> 3a325ec (Initial commit of veteran support platform)
+=======
+>>>>>>> 3a325ec08e5a26fab72b26ca4f63a9eb4b8343e8
